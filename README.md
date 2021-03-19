@@ -4,7 +4,7 @@ Tool for downloading and testing all plugins for Notepad++ against crash. Due to
 ## Attention!
 
 Testing all plugins may cause the following problems:
-- Files are not analyzed by any antivirus service (so they can be potentially dangerous). If you have a real-time antivirus installed, it will be probably checked them automatically. You can also download all .zip filses first, check them manually by your antivirus, and after that run the test again.
+- Files are not analyzed by any antivirus service (so they can be potentially dangerous). If you have a real-time antivirus installed, they will be probably checked automatically. You can also download all `.zip` files first, check them manually by your antivirus, and after that run the test again.
 - Some plugins may change system settings, like `NotepadStarterPlugin`. They probably have some `.bat` files to uninstall, but I haven't checked all of them.
 
 For the above reasons, it's best to use this tool in a virtual machine. **I'm not responsible for any damage done due to testing**. If you don't know what you are doing, it's best not to use this tool at all.
@@ -31,7 +31,7 @@ var closePopupTime = 2500; // in async mode wait the given number of millisecond
 var closeNppTime = 10000; //  in async mode wait the given number of milliseconds before closing Notepad++ main window automatically
 
 var plugListFile_x86 = "pl.x86.json"; // 32-bit plugin list file
-var plugListFile_x64 = "pl.x64.json"; // 66-bit plugin list file
+var plugListFile_x64 = "pl.x64.json"; // 64-bit plugin list file
 
 var onlyDownload = false; // true - only downloads .zip archives without test it under Notepad++, false - downloads .zip archives and test it under Notepad++
 var retryDownload = 3; // 0 - try download .zip archive only once , >0 will try the specified number of times

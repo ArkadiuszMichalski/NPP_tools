@@ -7,7 +7,7 @@ var closePopupTime = 2500; // in async mode wait the given number of millisecond
 var closeNppTime = 10000; //  in async mode wait the given number of milliseconds before closing Notepad++ main window automatically
 
 var plugListFile_x86 = "pl.x86.json"; // 32-bit plugin list file
-var plugListFile_x64 = "pl.x64.json"; // 66-bit plugin list file
+var plugListFile_x64 = "pl.x64.json"; // 64-bit plugin list file
 
 var onlyDownload = true; // true - only downloads .zip archives without test it under Notepad++, false - downloads .zip archives and test it under Notepad++
 var retryDownload = 3; // 0 - try download .zip archive only once , >0 will try the specified number of times
