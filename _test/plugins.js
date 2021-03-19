@@ -4,7 +4,7 @@ var version = "2021.03.19.01";
 
 var nppSync = false; //true - run Notepad++ in sync mode (need manually close all popup), false - run Notepad++ in async mode (all popup will be close automatically)
 var closePopupTime = 2500; // in async mode wait the given number of milliseconds before closing any popup automatically
-var closeNppTime = 10000; //  in async mode wait the given number of milliseconds before closing Notepad++ main window automatically
+var closeNppTime = 10000; //  in async mode wait the given number of milliseconds before closing Notepad++ main window automatically regardless of other factors
 
 var plugListFile_x86 = "pl.x86.json"; // 32-bit plugin list file
 var plugListFile_x64 = "pl.x64.json"; // 64-bit plugin list file
@@ -276,7 +276,7 @@ function runNPPasync(folder_ver, full_plugin_folder){
 
 		//console.log(stderr); // string
 		//console.log("stdout: " + stdout); // string
-		//console.log("error: " + error); // null when all jest OK (otherwise the object )
+		//console.log("error: " + error); // null when all is OK (otherwise the object)
 		//console.log(nppProcess.signalCode);
 
 		if (!error){

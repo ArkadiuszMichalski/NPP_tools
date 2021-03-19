@@ -10,12 +10,12 @@ Testing all plugins may cause the following problems:
 For the above reasons, it's best to use this tool in a virtual machine. **I'm not responsible for any damage done due to testing**. If you don't know what you are doing, it's best not to use this tool at all.
 
 
-### How use it
+### How to use it
 
 1. Download some portable version of Notepad++ from the [official page](https://notepad-plus-plus.org/downloads/) (`.zip` or `.7z` package). You can also try some newer versions ([details](https://github.com/notepad-plus-plus/notepad-plus-plus/wiki/Testing)).
 2. Extract the above package to some folder (for example `NPP`).
 3. Download the `_test` folder from this repo and put it to above `NPP` folder.
-4. Inside `_test` folder put `pl.x86.json` or `pl.x64.json` file depending on which version you downloaded in step 1. You can download the content of this file from the [official nppPluginList](https://github.com/notepad-plus-plus/nppPluginList) repo. Check the latest version of [pl.x86.json](https://github.com/notepad-plus-plus/nppPluginList/blob/master/src/pl.x86.json) or [pl.x64.json](https://github.com/notepad-plus-plus/nppPluginList/blob/master/src/pl.x64.json) file.
+4. Inside `_test` folder put `pl.x86.json` or `pl.x64.json` file depending on which version you downloaded in step 1. You can download the content of this file from the [official nppPluginList](https://github.com/notepad-plus-plus/nppPluginList) repo or create your own plugin list (according to the syntax of the original plugin list). Check the latest version of [pl.x86.json](https://github.com/notepad-plus-plus/nppPluginList/blob/master/src/pl.x86.json) or [pl.x64.json](https://github.com/notepad-plus-plus/nppPluginList/blob/master/src/pl.x64.json) file.
 5. Start tool with `run.bat` file (or `run_win7.bat` for Windows 7).
 
 You can test different versions of NPP and different versions of the plugin list, to locate the plugins that break the NPP version you are testing.
@@ -62,4 +62,5 @@ var ignorePlugins = [ // ignore plugin list (put "folder-name" of any plugin to 
 - Check hash after downloading the `.zp` file.
 - Find an easier way to close NPP when the popup appears (without using any additional programs).
 - Add configuration also through CLI arguments.
+- After finished return some code.
 
