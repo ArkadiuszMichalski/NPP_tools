@@ -23,12 +23,12 @@ You can test different versions of NPP and different versions of the plugin list
 ### Configuration
 
 At the beginning of the `_test\plugins.js` file we have some configuration (you can change them and run the test again):
-```
+```js
 // CONFIGURATION START
 
 var nppSync = false; //true - run Notepad++ in sync mode (need manually close all popup), false - run Notepad++ in async mode (all popup will be close automatically)
 var closePopupTime = 2500; // in async mode wait the given number of milliseconds before closing any popup automatically
-var closeNppTime = 10000; //  in async mode wait the given number of milliseconds before closing Notepad++ main window automatically
+var closeNppTime = 10000; //  in async mode wait the given number of milliseconds before closing Notepad++ main window automatically regardless of other factors
 
 var plugListFile_x86 = "pl.x86.json"; // 32-bit plugin list file
 var plugListFile_x64 = "pl.x64.json"; // 64-bit plugin list file
@@ -44,6 +44,7 @@ var ignorePlugins = [ // ignore plugin list (put "folder-name" of any plugin to 
 
 ### Additional tips
 - If you already have NodeJS installed on your system, you can delete the `_test\node.exe` file.
+- You can use this tool only for downloading all `.zip` packages, without actually testing them.
 - The downloaded `.zip` packages are saved in the `_test\_cache` folder. If you are running the test again and want them to be downloaded again every time, then clean this folder before you run test again.
 - Plugins save their settings in a `NPP\plugins\Config`folder. If you are running the test again and want it to be not use again, then clean this folder before you run test again.
 - You can copy the entire `_test` folder (with or without `_cache` folder) to another version of NPP and test it with the same or a different plugin list.
