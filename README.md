@@ -14,7 +14,7 @@ For the above reasons, it's best to use this tool in a virtual machine. **I'm no
 
 1. Download some portable version of Notepad++ from the [official page](https://notepad-plus-plus.org/downloads/) (`.zip` or `.7z` package). You can also try some newer versions ([details](https://github.com/notepad-plus-plus/notepad-plus-plus/wiki/Testing)).
 2. Extract the above package to some folder (for example `NPP`).
-3. Download the content of this repo to `NPP\_test` folder.
+3. Download the `_test` folder from this repo and put it to above `NPP` folder.
 4. Inside `_test` folder put `pl.x86.json` or `pl.x64.json` file depending on which version you downloaded in step 1. You can download the content of this file from the [official nppPluginList](https://github.com/notepad-plus-plus/nppPluginList) repo. Check the latest version of [pl.x86.json](https://github.com/notepad-plus-plus/nppPluginList/blob/master/src/pl.x86.json) or [pl.x64.json](https://github.com/notepad-plus-plus/nppPluginList/blob/master/src/pl.x64.json) file.
 5. Start tool with `run.bat` file (or `run_win7.bat` for Windows 7).
 
