@@ -57,10 +57,10 @@ run();
 
 function run(){
 
-	if (fs.existsSync("pl.x86.json")){
+	if (fs.existsSync(plugListFile_x86)){
 	 plugList = require(cwd + "\\" + plugListFile_x86);
 	}
-	else if (fs.existsSync("pl.x64.json")){
+	else if (fs.existsSync(plugListFile_x64)){
 	 plugList = require(cwd + "\\" + plugListFile_x64);
 	}
 
