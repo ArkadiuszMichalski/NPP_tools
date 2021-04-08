@@ -1,12 +1,11 @@
 # NPP_tools
 
-Several tools for testing Notepad ++. Currently available:
+Several tools for testing Notepad ++. Due to better portability (e.g. relative to Python portable, especially for Windows 7) I wrote all in NodeJS. Currently available:
 - plug_crash
-
 
 ## plug_crash
 
-Tool for downloading and testing all plugins for Notepad++ against crash. Due to better portability (e.g. relative to Python, especially for Windows 7) I wrote it in NodeJS. Everything works locally after following the steps below.
+Tool for downloading and testing all plugins for Notepad++ against crash. Everything works locally after following the steps below.
 
 ### Attention!
 
@@ -28,7 +27,7 @@ You can test different versions of NPP and different versions of the plugin list
 
 ### Configuration
 
-At the beginning of the `_test\plugins.js` file we have some configuration (you can change them and run the test again):
+At the beginning of the `_test\plug_crash.js` file we have some configuration (you can change them and run the test again):
 
 ```js
 // CONFIGURATION START
@@ -74,4 +73,3 @@ var ignorePlugins = [ // put to this table the "folder-name" of any plugin to ig
 - Find an easier way to close NPP when the popup appears (without using any additional programs).
 - Add configuration also through CLI arguments.
 - After finished return some code.
-
