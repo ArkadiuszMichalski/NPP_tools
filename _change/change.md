@@ -1,6 +1,6 @@
 # The changelog for all versions of Notepad++
 
-All `.txt` files available in the [change folder](https://github.com/ArkadiuszMichalski/NPP_tools/tree/main/_change). You can also download the whole files as [change_from_1.0_to_7.9.5.zip](https://github.com/ArkadiuszMichalski/NPP_tools/blob/main/_change/change_from_1.0_to_7.9.5.zip).
+All `.log` files available in the [change folder](https://github.com/ArkadiuszMichalski/NPP_tools/tree/main/_change). You can also download the whole files as [change_from_1.0_to_7.9.5.zip](https://github.com/ArkadiuszMichalski/NPP_tools/blob/main/_change/change_from_1.0_to_7.9.5.zip).
 
 Links to particular leading versions:
 - [7.x](#7x)
