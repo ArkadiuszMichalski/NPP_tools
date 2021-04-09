@@ -1,0 +1,16 @@
+v3.1 new features and corrected bugs (from v3.0) :
+
+1.  Add Plugin capacity.
+2.  Add Find In Files feature.
+3.  Set Current Working Directory according the current editing file.
+4.  Make visible the saved macros and user commands on the menu.
+5.  Fix some fonts non displayed in combobox bug.
+6.  Add bi-directional text editing feature.
+7.  Add UI RTL (Right To Left) ability.
+8.  Fix the saving problem for the files with hidden attribute.
+9.  Fix CSS pseudoclass keywords bug.
+10. Add header and footer for printing.
+11. Fix the bug that view changes while switch back the previous document (as "wrap text" feature is enable)
+12. Multiple extensions for the same User Defined Language is allowed.
+13. Fix the bug that notepad++ open a file twice because of sensitive case distinction for the file path.
+14. Fix the bug for "Find in all opened document" crash problem under some systems.

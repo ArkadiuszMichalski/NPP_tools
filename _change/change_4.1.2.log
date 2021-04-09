@@ -1,0 +1,9 @@
+v4.1.2 fixed bugs and added features (from v4.1.1) :
+
+1.  Fix crash problem of updating v4.1.1 from v3.9 (or previous version).
+2.  Fix the bug of the settings "Remember the last operation directory" : this parameter is remembered by acrossing the sessions.
+3.  Fix Ruby source file buffer overflow bug.
+4.  Increase User Define Language keywords buffers from 1024*20 to 1024*30 characters.
+5.  Increase the buffer of Extension defined by user from 20 to 256 characters in Style Configurator.
+6.  Fix the bug of user defined keywords field in Styler configurator.
+7.  Add URL "Notepad++ Home", "Notepad++ Project Page", "Online help" and "Forum" into menu.

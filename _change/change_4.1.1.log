@@ -1,0 +1,9 @@
+v4.1.1 fixed bugs and added features (from v4.1) :
+
+1.  Fix the unnecessary memory consuming (not memory leak) while find in files operation.
+2. 	Enhance Find in files feature : Insert the default value to filters and Directory fields automatically while launch or switch to Find in file dialog.
+3.  Fix the crash bug while double click on find in files result.
+4.  Link clickable feature is optional (in Preferences->MISC).
+5.  Fix crash problem while search in all opened file in multi-view mode.
+6.  Fix Close button misplaced problem in Find dialog.
+7.  Change the plugin behaviour : different users can have different sets of plugins, besides the basic set. Notepad++ will load the plugins from %APPDATA%\Notepad++\plugins\ directory, in the case of absence of "doLocalConf.xml".

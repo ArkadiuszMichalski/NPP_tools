@@ -1,0 +1,16 @@
+v4.0 new features and fixed bugs (from v3.9) :
+
+1.  Fix the crash issue.
+2.  Add Docking feature for plugin dialogs.
+3.  Fix the bug that current "open" and "save as" directory are inchanged with the shortcut Ctrl+Tab.
+4.  Fix the bug that the new added languages in v3.9 can not be hidden from the language menu.
+5.  Fix the volatile search direction bug.
+6.  Fix the Tab display problem.
+7.  Add Haskell, InnoSetup languages support.
+8.  Add the option to open/save files in the last operation directory.
+9.  Enhance Document switcher (MRU and switch crossing view abilities)
+10. Fix "Find Next" unicode bug for Find Replace Dialog.
+11. Support Unicode in displayed result of Find in files & Find in all opened files.
+12. Add Reload from disk feature.
+13. Fix bug : quite (close or restart Windows) without prompt to save.
+14. All the shortcuts of plugins commands are customizable via the shortcut mapper.

@@ -1,0 +1,23 @@
+v3.3 new features and fixed bugs (from v3.2) :
+
+1.  Add the capacity to keep all the configuration files in Notepad++ installed location.
+2.  Add shortcut Alt+F4 to menu item "Exit", user can resign the shortcut he/she want to it.
+3.  Add shortcut Ctrl+Alt+S to menu item "Save AS".
+4.  Add a button in Find/Replace Dialog to switch between Find Dialog and Replace Dialog.
+5.  Support heredoc for php.
+6.  Fix the memory leak bug while closing the document
+7.  Improve the functionalities of "to upper case" and "to lower case".
+8.  Support TCL, Assembler, Ruby, Lisp, Scheme, Properties, Diff, Smalltalk, Postscript and VHDL languages.
+9.  Add customizable styles for line number margin and fold margin.
+10. The shortcut (hot key) assignment for plugin command is supported.
+
+1.  Ajout de la capacité de garder tous les fichiers de configuration de Notepad++ dans son répertoire d'installation.
+2.  Ajout du racourci Alt+F4 à la commande "Exit" (l'utilisateur peut re-définir ce racourci).
+3.  Ajout du racourci Ctrl+Alt+S à la commande "Sauvegarder Sous".
+4.  Ajout d'un bouton dans la boîte de dialogue de Rechercher/Remplacer pour basculer entre 2 boîtes de dialogue.
+5.  Support de heredoc pour php.
+6.  Correction du bug de la fuite de mémoire lors de la fermeture d'un document.
+7.  Amélioration des fonctionnalités de "convertir en minuscule" et de "CONVERTIR EN MAJUSCULE"
+8.  Ajout des langages TCL, Assembler, Ruby, Lisp, Scheme, Properties, Diff, Smalltalk, Postscript et VHDL.
+9.  Ajout de la capacité de parametrer la marge de la ligne de numéro ainsi que de controle du relief
+10. Ajout de la capacité de gérer les racourcis pour les commandes des plugins.

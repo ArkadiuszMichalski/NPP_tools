@@ -1,0 +1,23 @@
+Notepad++ v4.6 fixed bugs and added features (from v4.5) :
+
+1. Add Notepad++ self-update capacity (optional).
+2. Fix save file dialog crash issue.
+3. Fix the crash issue while the length of config.xml is zero.
+4. Change the behaviour : When file is deleted from outside and switch back to Notepad++, user will be asked if he want to keep this file. If he answer yes, he will not be asked in the next time.
+5. Change Window title from "Notepad++ - file path" to "file path - Notepad++"
+6. Fix Run dialog bug: the executable file won't be executed even it is between the double quot.
+7. Add open relative file path from command line feature.
+8. Fix the crash issue when open a file which does not exist anymore from RFL (if its path exceed certain length).
+9. Fix the bug that the title doesn't be updated while file status changed and updated.
+
+Included plugins :
+
+1. TexFX v0.24a
+2. Function list v1.2
+3. ConvertExt v1.1
+4. NppExec v0.2 beta 4
+5. Spell checker v1.2
+6. Quick text v0.02
+7. Light Explorer v1.4
+8. Hex editor v0.84
+9. Base64 ecoder/decoder v1.2

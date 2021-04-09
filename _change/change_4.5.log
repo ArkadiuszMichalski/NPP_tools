@@ -1,0 +1,20 @@
+Notepad++ v4.5 fixed bugs and added features (from v4.4) :
+
+1. Fix crash issue while the launch the session file which contains the same file in 2 views (clone mode). 
+2. Add the session file extension association feature.
+3. Enhance the read/write config.xml to avoid crash.
+4. Add new -ro and -noSession command line parameters.
+5. Fix Russian display problem in the shortcut mapper.
+6. Fix NPPN_SHUTDOWN notification bug.
+7. Add NPPM_ACTIVATEDOCMENU message.
+
+Included plugins :
+
+1. TexFX v0.24a
+2. Function list v1.2
+3. ConvertExt v1.1
+4. NppExec v0.2 beta 4
+5. Spell checker v1.2
+6. Quick text v0.02
+7. Light Explorer v1.4
+8. Hex editor v0.84

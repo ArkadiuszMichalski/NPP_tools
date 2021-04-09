@@ -1,0 +1,11 @@
+v2.4 new features and corrected bugs (from v2.3) : 
+
+1.  Add the transparency to the Find/Replace dialog, Styler Configurator dialog and User Define Language dialog (for w2k and xp only).
+2.  Correct a bug of VB lexer.
+3.  Correct a bug of Perl lexer.
+4.  Add VB Net keywords.
+5.  Add scroll bar in User Define Language dialog in the dock mode (for the people who has the prehistoric configuration - 14" monitor with 640*480 resolution :-) ).
+6.  Add the option in the Find/Replace Dialog box to show the found token at the top, in the middle or at the buttom of the edit zone.
+7.  Update the keywords list of javascript.
+8.  Add the feature to change the toolbar icons.
+9.  Add the Unicode encoding feature.

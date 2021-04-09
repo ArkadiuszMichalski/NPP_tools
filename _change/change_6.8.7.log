@@ -1,0 +1,19 @@
+Notepad++ v6.8.7 bug-fixes and enhancements:
+
+1 .  Fix crash while "backups and session snapshots" is activated. 
+2 .  Restore file extension feature in save dialog.
+3 .  Fix crash issue while moving Find In Files progress window.
+4 .  Fix tab settings not working in javascript.
+5 .  Fix user customized keywords no effect in Javascript.
+6 .  Enhance language detection on "Save as".
+7 .  Add back-quoted string support for javascript.
+8 .  Move position to center when using "-n" option in command line.
+9 .  Installer enhancement: Allow user to keep DSpellCheck plugin.
+
+
+Included plugins:
+
+1.  NppExport v0.2.8
+2.  Plugin Manager 1.3.5
+3.  Converter 3.0
+4.  Mime Tool 1.9

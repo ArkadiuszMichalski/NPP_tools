@@ -1,0 +1,18 @@
+Notepad++ v6.9.1 enhancements and bug-fixes:
+
+1.  Fix bad detection of sub-folder in "Folder as Workspace".
+2.  Enhancement: Add "Find in files" command in "Folder as Workspace"
+3.  Enhancement: Add "Open Folder as Workspace" command in File menu.
+4.  Fix "copy" command bug in find result panel.
+5.  Improvements for JSON highlighting.
+6.  Fix Find In Files progress bar position bug.
+7.  Add Ctrl+Shift+Z shorcut for Redo.
+8.  FORTRAN 77 is supported.
+9.  Fix html tag auto-completion bug.
+
+Included plugins:
+
+1.  NppExport v0.2.8
+2.  Plugin Manager 1.3.5
+3.  Converter 3.0
+4.  Mime Tool 1.9

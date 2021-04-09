@@ -1,0 +1,9 @@
+v2.1 new features and corrected bugs (from v2.0) : 
+
+1.  Support le language Batch (*.bat, *.cmd & *.nt).
+2.  Add the ugly standard icons for the toolbar.
+3.  Make Tabbar height configurable (Normal <-> Reduce)
+4.  Change the caret to the ordinary one.
+5.  Add Toggle fold all feature.
+6.  Fix the current line highlighting toggle display bug
+

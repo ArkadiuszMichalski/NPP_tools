@@ -1,0 +1,16 @@
+v1.6 new features and fixed bugs (from v1.5) :
+
+
+1. Support now the hot key Ctrl+Tab / Ctrl+Shift+Tab to switch to the next / previous document.
+
+2. Current Line Highlighting is added (to enable/disable : Menu View -> Current Line Highlighting).
+
+3. Recent File History is now enhanced (eliminate non-available file path before loading Recent File History).
+
+4. go to line # Dialog Box is added (access to it by Ctrl+G or Menu Search->Go to line...)
+
+5. Status Bar is enhanced : 
+    a. display the current position Ln & Col of caret - double click on this zone will launch "go to line # Dialog Box"
+    b. display the insertion mode INS|OVR -  simple click on this zone will switch the alternative insertion mode (The same effect of key stroke Insert)
+
+6. Fixed bug : The focus wasn't restored after switching back to Notepad++.

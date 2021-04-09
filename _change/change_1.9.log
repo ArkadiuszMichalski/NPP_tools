@@ -1,0 +1,11 @@
+v1.9 new features and corrected bugs (from v1.8) : 
+
+1. Buffer over run on Find and Replace Dialog is corrected - The limit of character number to search is set to 256.
+
+2. Add "Set Max Number of Opened Files" menu entry (Setting->Set Max Number of History Files), that allows user to set max opened files history. Note that the maximum number is 30. Enter for accepting the nb max file value and Esc for cancel the action. 
+
+3. Tab size and replacing tab by space are configurable now (Setting->Tab Setting). Enter for accepting the tab size value and Esc for cancel the action. 
+
+4. Support now Unix and Mac format (before v 1.9 Notepad++ supported only read mode). The user can also convert his doc to the 2 other formats (Unix -> Mac / Dos, Dos -> Unix / Mac and Mac -> Dos / Unix).
+
+5. Launch problem under NT 4 is corrected

@@ -1,0 +1,19 @@
+v2.6 new features and corrected bugs (from v2.5) :
+
+1.  Add the File Associations Manager.
+2.  A bug of User Define Language panel is fixed : After creating a new language and restarting Notepad++, all font foreground colors change to white.
+3.  Increse the capacity of User Define Language keyword list : from 1024 bytes to 4096 bytes
+4.  Behaviour issue : fixed the problem that the folded document is unfolded while switching back.
+5.  A fixed bug : the position of document is entirely memoried while swiching among the document.
+6.  New feature for User Language Define System : the comment and comment line symbols can be recognized even the followed character is not a white space (optional to user).
+7.  The behaviour of functionality "Fold all" fixed : From now on, not only the folders, bot also all the sub-folders are collapsed when this command is executed.
+8.  Add features : user can collapse/uncollapse the current level (the caret current position).
+9.  Add features : user can collapse/uncollapse whichever folder level (1-8) he/she wants.
+10. Add Underline check box in User Define Language Panel.
+11. Add Prefix feature (optional) for each keyword in User Define Language.
+12. Add a feature that treating the comment tokens as symbols (allow no white space) is optional in User Define Language.
+13. Add a feature that the case sensitive is an option in User Define Language.
+14. Add full screen toggle feature (F11).
+15. A fixed bug : Infinite search when counting (or marking) words backwards.
+16. A fixed bug : Replce all.
+17. Add the UI limit of language name for User Define Language Panel.

@@ -1,0 +1,17 @@
+v2.7 new features and corrected bugs (from v2.6) :
+
+1.  A regular expression's find/replace bug is fixed.
+2.  A folding status' bug is fixed.
+3.  The bug of saving file while displaying as UTF-8 is fixed. 
+4.  The horizontal scrollbar bug is fixed.
+5.  The auto-completion for User Define Language is supported.
+6.  2 Delimiter Groups are added in the User Language Define System.
+7.  2 functionalities are added - to Upper case and to lower case.
+8.  "Go to matching brace" feature is added.
+9.  Marcro Recording and playing features are added.
+10. A "Replace All" bug is fixed, as well the "Replace All" performance are optimized.
+11. Add new menu item "Open All Recent File".
+12. File Auto-detection is configurable now.
+13. A file name separation problem is fixed.
+14. Checking of Recent file list at launch time is able to disable now.
+15. The crash because of column mode selection is corrected.

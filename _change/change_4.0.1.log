@@ -1,0 +1,22 @@
+v4.0.1 fixed bugs (from v4.0) :
+
+1.  Fix the crash issue of opening of file name length > 63. 
+2.  Fix the crash issue under w98.
+3.  Fix the shortcut name bug in shortcut mapper.
+4.  Fix ASP syntax highlighting problem.
+5.  Fix 2 context menu items issue after the installation by installer.
+6.  Enhance the NSIS language support.
+
+
+FunctionList Plugin 1.1 :
+1.  Fix the bug of wrong toolbar stat while closing Function List dialog by X button.
+2.  Fix C++ "operator[]" recognition
+3.  Fix Pascal method recognition
+4.  Add TCL support
+
+Explorer Plugin 1.01 :
+1.  Fix the font display bug.
+2.  Fix open of favorite folders in explorer when explorer is not open
+
+HexEditor Plugin 0.6 :
+- Fix display problems and the extension recognition bug.

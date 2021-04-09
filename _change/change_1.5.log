@@ -1,0 +1,13 @@
+v1.5 new features and fixed bugs (from v1.4) :
+
+1. Brace and Indent guideline Highlight : When the caret stay beside of one of those symbol "{ } [ ] ( )" the symbol beside of caret and its symetric opposite symbole will be highlighted, as well as the indent guideline in order to locate the bloc more easily.
+
+2. A fixed bug : the incorrect display of line number margin by doing the zoom is corrected.
+
+3. The tooltips for the tool bar are added.
+
+4.  Another fixed bug : The position of the document wasn't restored correctly after closing or drag-and-droping a document.
+
+5. fixed bug again : the Find text dialog didn't memorize the searched words.
+
+6. Syntax HighLighting of asp file is added.

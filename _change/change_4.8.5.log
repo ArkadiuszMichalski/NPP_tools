@@ -1,0 +1,22 @@
+Notepad++ v4.8.5 fixed bugs and added features (from v4.8.2) :
+
+1.  Fix crash bug while a "New 2" is in session.xml.
+2.  Fix the Drag N Drop text bug between 2 views.
+3.  Fix the annoying acrobat reader dialog problem.
+4.  Fix the bug that the first new document encoding is not set as the setting in "New Document settings".
+5.  Fix crash bug while running the command "Close All But Me" in some context.
+6.  Add scroll to end line feature after document reloading from disk.
+7.  Enhance checking modification from outside feature.
+
+
+Included plugins :
+
+1. TexFX v0.24a
+2. NppExec v0.2 RC3.2
+3. Spell Checker v1.3.1
+4. MIME Tools v1.4
+5. FTP_synchronize v0.9.6
+6. NppExport v0.2.7.3
+7. Compare plugin v1.5.1
+8. Light Explorer v1.4
+9. Doc Monitor v2.0

@@ -1,0 +1,16 @@
+02:32 lundi 25 septembre 2006
+
+v3.9 new features and fixed bugs (from v3.8) :
+
+1.  Remember the bookmarks, maitaining of identation, zoom level and visibilities of white space/EOL characters in each saved session.
+2.  Add the capacity to clear read only attribute.
+3.  Fix the reload bug for read-only file.
+4.  Add the capacity to write the files which have the system attribte.
+5.  Backup file on each save (optional : verbose mode & normal mode).
+6.  Add the close button for each tab like Opera (optional).
+7.  Add double click on tab to close document feature (optional).
+8.  Add word completion (Alt+Space) feature.
+9.  Fix the line number margin display bug.
+10. Add Opera style task list tab switcher (Ctrl+Tab or Mouse Right Click + Mouse Wheel). 
+11. Add Ada, Caml, AutoIt, KixTart, Matlab, Verilog language support.
+12. Add TeX folding support.

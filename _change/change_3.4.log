@@ -1,0 +1,21 @@
+v3.4 new features and fixed bugs (from v3.3) :
+
+1.  Auto-detect the UTF-8 files without BOM.
+2.  Add synchronized (vertical and/or horizontal) scrolling feature in multi-view mode.
+3.  Add several keys (cut/copy/paste, undo/redo...) in the shortcut mapper.
+4.  Opening a file with relative path from command line is supported.
+5.  Fix the clear the "Style found token" problem (Find/Replace Dialog) in normal text mode.
+6.  Fix UPPERCASE and lowercase bug under Windows 95/98.
+7.  Enhance HOME/END key in Wrap text mode.
+8.  Add Always on top feature.
+
+
+
+1.  Auto-detection du fichier UTF-8 sans BOM.
+2.  Ajout de la synchronisation du scroll entre 2 vues.
+3.  Ajout des racourcis (couper/copier/coller, annuler/établir...) dans le Gestionaire de racourci.
+4.  Ajout de la capacité d'ouvrir un fichier avec le chemin relatif en ligne de commande.
+5.  Correction du bug de purge la coloration des mots trouvés (dans la boîte de dialogue Rechercher/Remplacer) en mode de text normal.
+6.  Correction du bug de conversion en MAJUSCULE et en minuscule sous windows95/98.
+7.  Amélioration des racourcis début/fin en mode du retour automatique à la ligne.
+8.  Ajout de la fonctionnalité "Toujours devant".

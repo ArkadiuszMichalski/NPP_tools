@@ -1,0 +1,26 @@
+Notepad++ v6.7 new feature and bug fixes:
+
+1.  Add Smart Indent feature for php/javascript/c/c++/java/c#/Objective-C.
+2.  Enhance Auto-insert feature for {} [] (): typing and skipping }, ] and ).
+3.  Add new feature of MRU: While current file is closed the previous activated file will be activated.
+4.  Allow users to disable Easter eggs by adding noEasterEggs.xml in Notepad++ installed directory.
+5.  Enhancement: Resize column Name filed correctly while hiding column Ext.
+6.  Fix Global colours not applied to all text of the "Find result" pane.
+7.  Add C# and enhance php parser in Function List.
+8.  Fix document list panel has no selection while start up.
+9.  Fix docSwitcher bug which shows new 0 after loading a session of files.
+10. Fix crash issue on quit Notepad++ while session snapshot period backup feature is on.
+11. Make "Text Direction RTL" command and "Text Direction LTR" command work without reloading file.
+12. Make document map matches the current text direction (RTL/LTR).
+13. Fix a crash issue while the opened document is deleted/moved from outside.
+14. Fix undo actions on unsaved snapshot file removing the dirty state bug.
+
+Included plugins:
+
+1.  DSpellCheck v1.2.12
+2.  NppFTP 0.24.1
+3.  NppExport v0.2.8
+4.  Plugin Manager 1.0.8
+5.  Converter 3.0
+6.  Mime Tool 1.9
+

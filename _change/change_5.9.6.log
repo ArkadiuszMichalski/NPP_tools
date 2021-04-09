@@ -1,0 +1,26 @@
+Notepad++ v5.9.6 new features and fixed bugs:
+
+1.  Add a new feature "Adding files recursively from a floder" in Project Manager.
+2.  Fix a bug in Project Manager regarding open and reload commands.
+
+
+
+Included plugins (Unicode):
+
+1.  Spell Checker v1.3.3
+2.  NppFTP 0.24.1
+3.  NppExport v0.2.8
+4.  Plugin Manager 0.9.3.1
+5.  Converter 3.0
+
+
+
+Included plugins (ANSI):
+
+1.  TextFX v0.25
+2.  NppExec v0.4.1
+3.  Spell Checker v1.3.3
+4.  NppExport v0.2.8
+5.  Light Explorer v1.6
+6.  Compare Plugin 1.5.5
+7.  Plugin Manager 0.9.3.1

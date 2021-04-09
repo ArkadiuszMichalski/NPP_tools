@@ -1,0 +1,18 @@
+v3.0 new features and corrected bugs (from v2.9) :
+
+1.  Add remapping the shortcuts feature.
+2.  Enhance the macro feature (saving ability, mapping with shorcut).
+3.  Enhance the run command feature (saving ability, mapping with shorcut and insert of environment variables).
+4.  Add "Trim Trailing Space" feature.
+5.  Fix the User Defined Language Dialog splash problem during the launch of Notepad++.
+6.  Fix the Regular Expression Search problem for an empty word.
+7.  Fix the problem that Notepad++ creep up each launch time when taskbar at top of screen.
+8.  Fix "New Notepad Document" disappearing problem (in context menu) after associate .txt with Notepad++ via the File Association Manager
+9.  Add "Close tab with the middle mouse button" feature. 
+10. Add "go to line #" command line argument.
+11. Add find features Find selected Next(Shift+F3), Find Prev(Ctrl+F3) and Find selected Prev(Ctrl+Shift+F3).
+12. Fix the Ucs-2 little/big endian encoding bug.
+13. Fix the sql string highlighting problem.
+14. Add shortcuts Alt+0 and Alt+Shift+0 for respectively "Fold all" and "Unfold all".
+
+ 

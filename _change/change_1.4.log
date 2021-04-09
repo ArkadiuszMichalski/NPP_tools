@@ -1,0 +1,8 @@
+v1.4 change log (from v1.3) :
+
+1. Codepage auto-detection is done. Notepad++ works automatically now under Traditional/Simplified Chinese Windows. as well under Korean and Japanese Windows (ie. the native characters will be displayed correctly).
+2. Bookmark feature is added. User can just click on the bookmark margin (located right side of line number margin) or type Ctrl+F2 to toggle a book mark. To reach the bookmark, type just F2 (Next bookmark) or Shift+F2 (Previous bookmark). To clear all bookmarks, clik the Menu "Search->Clear All bookmarks".
+3. An icon of "wrap the text" is added into the tool bar, Thank to our Art Chief Stephane LE GALL for her esthetic design.
+4. Syntax highlighting of *.ini is added.
+5. Multi-user configuration system is done. From now on the personal GUI configuration and history are saved in the user directory. Also it's no more need to modify the user configuration file manually, Notepad++ memorizes automatically the current GUI configueration for the next session.
+6. An "pseudo" bug of find string is corrected thanks to our Test & Support Manager Oren BAUM who reported this problem. This "pseudo bug" is that if the user try to find a whatever string just after opening a file (without placing the caret), he will find nothing because the caret is at the end of file. The remedy is Notepad++ puts the caret at the begining of the opened document.

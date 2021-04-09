@@ -1,0 +1,24 @@
+Notepad++ v7.5.7 bug-fixes:
+
+1.  Fix hanging problem while shutdown and backup file is absent.
+2.  Fix Sort Lines as Integers issue: use Natural Sort algorithm.
+3.  Fix JavaScript not working regression in Function list.
+4.  Fix Open File Dialog error for a long path.
+5.  Fix document map display bug when the view is scrolled past the end of the file.
+6.  Fix tool bar display bug in big icon mode issue.
+7.  Make caret line always visible on click from Finder panel.
+8.  Fix UDL export extension issue.
+9.  Fix Run Macro multiple times dialog display glitch after deleting a Macro.
+
+
+Included plugins:
+
+1.  NppExport v0.2.8 (32-bit x86 only)
+2.  Converter 4.2.1
+3.  Mime Tool 2.1
+4.  DSpellCheck 1.3.5
+
+
+Updater (Installer only):
+
+* WinGup (for Notepad++) v5.0.1

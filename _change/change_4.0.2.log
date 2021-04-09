@@ -1,0 +1,6 @@
+v4.0.2 fixed bugs (from v4.0.1) :
+
+1.  Fix the crash issue regarding the docking feature.
+2.  Fix the crash issue for Find in files feature.
+3.  Fix the crash issue while pressing close button in Windows dialog (menu "Window->windows...").
+4.  Fix the bug that the docked dialog can not be resized by dragging splitter under w98.

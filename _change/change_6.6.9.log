@@ -1,0 +1,18 @@
+Notepad++ v6.6.9 new feature and bug fixes:
+
+1.  Fix comment command bug that the comment symbols isn't set on the first column for Fortran.
+2.  Add python parson for function List.
+3.  Make icons' background colour transparent for functionList and projectManager.
+4.  New feature: Apply new file default settings on created new file (opened via command line).
+5.  Fix colour picker' chooser bug which does not work well.
+
+
+Included plugins:
+
+1.  DSpellCheck v1.2.12
+2.  NppFTP 0.24.1
+3.  NppExport v0.2.8
+4.  Plugin Manager 1.0.8
+5.  Converter 3.0
+6.  Mime Tool 1.9
+

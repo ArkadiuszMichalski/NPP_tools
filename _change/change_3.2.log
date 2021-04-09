@@ -1,0 +1,13 @@
+v3.2 new features and fixed bugs (from v3.1) :
+
+1.  Change the behaviour for nativeLang.xml : nativeLang.xml which in the application directoy will be loaded as the absence of %AppData%\Notepad++\nativeLang.xml.
+2.  Support XP visual style.
+3.  Fix replace all + direction up bug.
+4.  Fix the bug that scrolls down one line as launching Notepad++ to open a file (double click).
+5.  Fix the view shift bug while switching back (finally!!!).
+6.  Fix the bug of failing to open the files (by using context menu or double click) with some "special" file names.
+7.  Add "open the last session's files" feature (optional).
+8.  Support the project file (save session and load session)
+9.  Change the interface of Styler Configurator.
+10. Fix the bug that open muli-instance of Notepad++ while opening several files at the first launch.
+11. The extensions of User Defined Languages can override the ones of supported languages now.

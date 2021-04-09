@@ -1,0 +1,9 @@
+corrected bugs & new feature :
+
+1. Add text wrap function.
+2. Add automatic indentation. (not intelligent indentation yet).
+3. remove no needed fold marge for some types of document.
+4. correct the problem of different size of fold margin for the different type of document.
+5. correct the problem that the dialogs don't receive the key stroke of ENTER.
+6. Add new menu entry to support traditional Chinese codepage, 
+   so from now on N++ works under the Chinese windows system.

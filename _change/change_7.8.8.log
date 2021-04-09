@@ -1,0 +1,26 @@
+Notepad++ v7.8.8 Enhancements & bug-fixes:
+
+1.  Fix accented characters in ANSI files not found in "find in files" and "replace in files" commands issues.
+2.  Add an option to improve rendering special Unicode characters by using Scintilla's DirectWrite technology.
+3.  Fix URL invisible issue in dark themes.
+4.  Fix the focus not on the opening new file issue.
+5.  Fix Workspace (Project panel), Folder As Workspace and function list keep focus issue after double clicking an item.
+6.  Add Ctrl+Backspace ability to delete word for comboboxes in Find/Replace dialog.
+7.  Add ability to find-all in selected text.
+8.  Fix wrong treatment of backslashes as escape sequences in autocompletion.
+9.  Enhance "Remove Empty Lines" command: Allow scope to be limited by an active selection.
+10. Fix loading of project & session files by drag & drop not working issue.
+11. Fix block selection cursor wrong positions after typing TAB.
+12. Add confirmation prompt to "Replace all in all opened documents" command to avoid PBKAC.
+
+
+Included plugins:
+
+1.  NppExport v0.2.9
+2.  Converter 4.2.1
+3.  Mime Tool 2.5
+
+
+Updater (Installer only):
+
+* WinGup (for Notepad++) v5.1.1

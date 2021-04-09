@@ -1,0 +1,8 @@
+Notepad++ v1.3
+
+from v1.2 :
+
+1. add the xml configurator
+2. add the new functionality of "close all but current document"
+3. add doxygen syntax highlighting.
+4. add the new functionality of History (the list of the opened document)

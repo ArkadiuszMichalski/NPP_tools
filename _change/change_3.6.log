@@ -1,0 +1,17 @@
+v3.6 new features and fixed bugs (from v3.5) :
+
+1.  Add Preference Dialog.
+2.  Add the customizable default settings for new document - Format/Encoding/Language(in Preference Dialog).
+3.  Add the customizable feature (hide or display item) for the Language Menu (in Preference Dialog).
+4.  Fix the print bug of continued background colour on footer and header.
+5.  Add 2 environment variables for Run Dialog : $(NAME_PART) and $(EXT_PART), and 3 environment variables for printing feature.
+6.  Make printing parameters customizable : colour, marges, headers and footers.
+7.  Fix the search with match case bug for non latin-1.
+
+1.  Ajout de la boîte de dialogue "Préférence".
+2.  Ajout de la capacité de paramétrer format/encodage/langage pour un nouveau document (dans la boîte de dialogue "Préférence").
+3.  Ajout de la capacité de paramétrer  (cacher ou afficher) les items du menu langage (dans la boîte de dialogue "Préférence").
+4.  Correction du bug d'impression (la couleur de fond de l'entête et du pied de page).
+5.  Ajout de 2 variables d'environnement pour la boîte de dialogue "Exécution" : $(NAME_PART) and $(EXT_PART).
+6.  Ajout de la capacité de paramétrer les options d'impression : les couleurs, les marges, les entêtes et les pieds de page.
+7.  Correction du bug de la recherche avec la casse sensible pour les codages non latin-1.

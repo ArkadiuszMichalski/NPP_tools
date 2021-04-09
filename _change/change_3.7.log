@@ -1,0 +1,10 @@
+v3.7 new features and fixed bugs (from v3.6) :
+
+1.  Fix UCS2 LE bug.
+2.  Fix search/replace in UTF-8 file problem.
+3.  Fix the bug to paste the EOL which is not conforme to destination document.
+4.  Add the auto-expansion capacity (reacting on the cursor position) for search feature (Ctrl+F / Ctrl+Alt+I).
+5.  Add the window (document) list feature.
+6.  Add updating file silently feature (to enable it via Preference Dialog).
+7.  Add CURRENT_WORD and NPP_DIRECTORY in environment variables.
+8.  Fix the bug for New document setting.

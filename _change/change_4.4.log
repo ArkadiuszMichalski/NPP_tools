@@ -1,0 +1,20 @@
+Notepad++ v4.4 fixed bugs and added features (from v4.3) :
+
+1. Add auto-add extension feature in file save dialog.
+2. Fix crash issue while file is deleted outside (answer NO to popup dialog to not keep) and the silence update option is on.
+3. Add Session Restore with Sub-View Settings feature.
+4. Fix the Notepad++ getting focus problem while find dialog is activated.
+5. Fix unwanted selection after popup dialog (keep file) when the file opened is deleted.
+6. Add NPPN_FILEBEFOREOPENED, NPPN_FILECLOSED, NPPN_FILESAVED, NPPN_FILEBEFORESAVE and NPPN_SHUTDOWN plugin notifications.
+
+
+Included plugins :
+
+1. TexFX v0.24a
+2. Function list v1.2
+3. ConvertExt v1.1
+4. NppExec v0.2 beta 4
+5. Spell checker v1.2
+6. Quick text v0.02
+7. Light Explorer v1.4
+8. Hex editor v0.84

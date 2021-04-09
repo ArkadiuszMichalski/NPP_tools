@@ -1,0 +1,13 @@
+v2.3 new features and corrected bugs (from v2.2) : 
+
+1.  Multi-Native Language (For non English speaking user).
+2.  Correct a bug of updating the document in dual view while reloading the document modified from outside.
+3.  Correct a bug of showing minimised Notepad++ while the opened document is deleted from outside.
+4.  Correct a PHP Keywords bug.
+5.  Correct a bug about the update of document state  while switching with Ctrl+TAB or Ctrl+Shift+TAB.
+6.  Correct a minor bug of losing focus while reaching the end of search by using the F3 key (The focus is not restored while ending the notice dialog box) .
+7.  Add 2 menu entries to show the white space/TAB and EOL separately.
+8.  Add right vertical edge line.
+9.  Add Context Menu Entry under explorer (optional in the installer)
+10.Add the ability to replace "the default source viewer"  for the iexplorer (optional in the installer)
+11. An auto-completion bug is corrected.

@@ -1,0 +1,20 @@
+Notepad++ v6.1.5 fixed bugs:
+
+1.  Fix a html tag match freezing issue.
+2.  Fix the sidebar splitter failed in Windows 8 issue.
+3.  Fix un regression: folding/unfolding performance issue.
+4.  Fix tab context menu in the other localization regression due to adding new command "Reload".
+5.  Fix lower/UPPER case on selected text which contains NULL characters.
+6.  Fix wrap/unwrap line position not being kept bug.
+7.  Fix xml syntax highlighting broken because of php preprocessor instruction inside.
+8.  Fix a GUI bug which shows empty tab row while closing a last tab in a row (in the multi-line tab mode).
+
+
+Included plugins:
+
+1.  Spell Checker v1.3.3
+2.  NppFTP 0.24.1
+3.  NppExport v0.2.8
+4.  Plugin Manager 1.0.8
+5.  Converter 3.0
+

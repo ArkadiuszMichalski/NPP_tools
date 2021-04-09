@@ -1,0 +1,28 @@
+Notepad++ v6.8.5 bug-fixes:
+1.  Fix Javascript autocompletion not working regression.
+
+
+Notepad++ v6.8.4 bug-fixes and enhancements:
+
+1.  Improve document switching performance while folding restoring.
+2.  Enhance Javascript syntax highlighting: 2 groups of keywords more for syntax highlighting customization.
+3.  Improve auto-insert usability: the open symbols (", ', (, [ and { ) triggers the close symbols according to the context.
+4.  Apply new added language auto-detection (for php, xml, html and bash) in the case of unknown file extension.
+4.  Add JSON language support.
+5.  Fix macro playback inserting/removing characters randomly.
+6.  Fix Save All button is still enabled problem while no file to save.
+7.  Make file save dialog modern style.
+8.  Fix auto-insert for xml comment incorrect insertion.
+9.  Fix user command save problem on exit.
+10. Fix macro save problem on exit.
+11. Fix the restoring from system tray problem while running in admin mode.
+12. Fix smart highlighting not working in some case.
+13. Enlarge tabbar height.
+
+
+Included plugins:
+
+1.  NppExport v0.2.8
+2.  Plugin Manager 1.3.5
+3.  Converter 3.0
+4.  Mime Tool 1.9

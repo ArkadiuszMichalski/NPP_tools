@@ -1,0 +1,25 @@
+Notepad++ v6.5.5 new features and bug fixes:
+
+1.  Add character encoding auto-detection feature.
+2.  Fix the word-completion hanging problem by typing Chinese in ANSI document under Chinese Windows 7/8 64 bits.
+3.  Enable word-completion in ANSI document under CJK environment.
+4.  Add wildcard capacity for file name argument in command line.
+5.  Add new command line argument "-r" for opening files recursively (with wildcard characters).
+6.  Fix the crash bug while setting current document as Objective-C source code.
+7.  Fix rename not replacing the existing file bug.
+8.  Enhance Function list feature: reload on saving.
+9.  Enhance Function list feature: better recognition of perl function.
+10. Fix sorting path in Windows document dialog makes Notepad++ crash.
+11. Fix the no extension column setting for Doc Switcher not initialized properly in preference dialog.
+12. Add "Command line arguments help" menu item command.
+
+
+Included plugins:
+
+1.  DSpellCheck v1.2.12
+2.  NppFTP 0.24.1
+3.  NppExport v0.2.8
+4.  Plugin Manager 1.0.8
+5.  Converter 3.0
+6.  Mime Tool 1.9
+

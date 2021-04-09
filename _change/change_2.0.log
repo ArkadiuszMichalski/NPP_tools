@@ -1,0 +1,13 @@
+v2.0 new features and corrected bugs (from v1.9) : 
+
+1.  Add autocomplete list box (intern keywords list or extern file.api). Ctrl + Space to trigger it.
+2.  Support le language CSS.
+3.  Support le language Python.
+4.  Support le language Perl.
+5.  Support le language Pascal.
+6.  Support *.js file (extern javascript file).
+7. add php 5 keywords.
+8.  Notepad++ remembers now the size and the position of the last session.
+9.  Notepad++ remembers also if wrap was enable in the last session (do wrap or not).
+10. The focus is always on edit control when Find Dialog appears.. 
+    

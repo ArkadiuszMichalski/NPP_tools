@@ -1,0 +1,12 @@
+v2.9 new features and corrected bugs (from v2.8) :
+
+1.  fix a regular expression's replace bug.
+2.  enhance the regular expression find/replace feature.
+3.  fix Search Next/Previous Bookmark without bookmark bug.
+4.  "Find All" not only marks, but also keeps the style now.
+5.  add "Replace all in selection zone" feature.
+6.  add "Mark all in in selection zone" feature.
+7.  add "Replace all in all opened document" feature.
+8.  add "Find all in all opened document" feature.
+9.  fix a minor bug of restoring window position and size from previous session.
+10. Add a "clear" button to clear all marks in Find Dialog.

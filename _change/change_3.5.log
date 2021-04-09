@@ -1,0 +1,18 @@
+v3.5 new features and fixed bugs (from v3.4) :
+
+1.  Double click on blank area to have a new document (Firefox behaviour).
+2.  Add "Set current document read only" command.
+3.  Fix the behaviour to hold the directory of closed file as current working directory.
+4.  Add "copy file name/full path/current directory to clipboard" feature.
+5.  Add an X button on upper right corner to close the current document.
+6.  Add the "incremental search" feature.
+7.  New toolbar feel & look (For the standard icons).
+
+
+1.  Double clic sur la zone des onglets pour ouvrir un nouveau document (comme dans Firefox)
+2.  Ajout de la commande "appliquer la lecture seule au document courant".
+3.  Correction du bug de garder le répertoire du dernier fichier fermé comme répertoire courant.
+4.  Ajout de la fonctionnalité de copie du chemin d'accès, du nom du fichier ou du répertoire courant, dans le clipboard.
+5.  Ajout d'un bouton X en haut à droite pour fermer le document courant.
+6.  Ajout de la fonctionnalité de recherche incrémentielle.
+7.  Nouveau look.

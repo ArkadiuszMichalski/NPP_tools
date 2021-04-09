@@ -1,0 +1,12 @@
+v2.2 new features and corrected bugs (from v2.1) : 
+
+1.  Improve the user define language feature (add syntax folding) and allow to user to save the user define language.
+2.  Support Unicode (UTF-8, UCS-2).
+3.  Add "Mark all", "Style All" and "Count" feature in the Find Dialog.
+4.  Correct "Replace All" infinite loop bug. For example : Find "poo" to replace by "pooo".
+5.  Add shortcut key Ctrl + F4 and Ctrl + W to close file.
+6.  Text foreground colour remains the same when text is selected (change only the selected text background colour).
+7.  Add C# language support.
+8.  Add Lua language support.
+9.  Correct a minor bug for the Splitter window (no more context menu for the fix splitter).
+10. Add css.api file and some CSS keywords (Thanks to Caroline Guénette).

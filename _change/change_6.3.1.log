@@ -1,0 +1,17 @@
+Notepad++ v6.3.1 fixed bugs and added features:
+
+1.  Fix replacing '\n' bug in both extended and regex mode.
+2.  Remember folding states for each file in session.
+3.  Fix a crash bug on uncommenting.
+4.  Add "Set Updater proxy..." command for setting the proxy of updater.
+5.  Fix the problem of Window position not saved/restored properly.
+6.  Add new API NPPM_GETCURRENTVIEW. 
+
+Included plugins:
+
+1.  Spell Checker v1.3.3
+2.  NppFTP 0.24.1
+3.  NppExport v0.2.8
+4.  Plugin Manager 1.0.8
+5.  Converter 3.0
+

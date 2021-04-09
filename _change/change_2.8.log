@@ -1,0 +1,6 @@
+v2.8 new features and corrected bugs (from v2.7) :
+
+1.  Recent Files History menu is now dynamic.
+2.  Change the shortcuts "Collapse the levels" (From Ctrl-Alt-# to Alt-#) and the shortcuts "Uncollapse the levels" (From Ctrl-Alt-Shift-# to Alt-Shift-#)
+3.  The feature to minimize to system tray is added.
+4.  Block Comment features are added
